@@ -8,9 +8,9 @@
 
 ## Downloads
 
-Lecture notes download: [MXB107 Lecture Notes PDF](https://www.github.com/Tarang74/MXB107/raw/main/MXB107%20Lecture%20Notes.pdf)
+Lecture notes download: [MXB107 Lecture Notes PDF](https://www.github.com/MathMaestros/MXB107/raw/main/MXB107%20Lecture%20Notes.pdf)
 
-Exam notes download: [MXB107 Exam Notes PDF](https://www.github.com/Tarang74/MXB107/raw/main/MXB107%20Exam%20Notes.pdf)
+Exam notes download: [MXB107 Exam Notes PDF](https://www.github.com/MathMaestros/MXB107/raw/main/MXB107%20Exam%20Notes.pdf)
 
 ---
 
